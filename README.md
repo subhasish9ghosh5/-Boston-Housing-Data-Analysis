@@ -6,16 +6,14 @@ This repository contains an analysis of the Boston Housing dataset, a classic da
 #Tools Used:
 The analysis utilizes Python and various libraries for data manipulation, visualization, and analysis, including:
 
-<p align="center">
-  <img width="40" height="20" src="Boston-Housing-Data-Analysis
-/images.png">
+<p align="left">
+  <img width="40" height="20" src="Boston-Housing-Data-Analysis/images.png">
 </p>
 
-<p align="center">
-  <img width="40" height="20" src="-Boston-Housing-Data-Analysis
-/download.png">
+<p align="left">
+  <img width="40" height="20" src="-Boston-Housing-Data-Analysis/download.png">
 </p>
-Description
+#Description
 The Boston Housing dataset provides insights into the housing market and factors influencing housing prices. Key attributes include crime rate, zoning, proximity to business areas, environmental factors like nitric oxides concentration, average number of rooms, and socio-economic indicators such as the percentage of lower-status population.
 
 Exploratory Data Analysis (EDA)
