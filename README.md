@@ -6,11 +6,11 @@ This repository contains an analysis of the Boston Housing dataset, a classic da
 #Tools Used:
 The analysis utilizes Python and various libraries for data manipulation, visualization, and analysis, including:
 
-<p align="left">
+<p align="Left">
   <img width="40" height="20" src="Boston-Housing-Data-Analysis/images.png">
 </p>
 
-<p align="left">
+<p align="Left">
   <img width="40" height="20" src="-Boston-Housing-Data-Analysis/download.png">
 </p>
 #Description
