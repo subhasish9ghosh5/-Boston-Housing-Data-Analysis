@@ -27,21 +27,27 @@ EDA is conducted to gain insights into the dataset:
 Data Inspection:
 -
 Checking data types, missing values, and initial exploration of the dataset.
+
 Summary Statistics:
 -
 Calculating mean, median, minimum, maximum, and quartiles for each attribute.
+
 Data Visualization:
 -
 Creating visualizations like histograms, scatter plots, and box plots to understand variable distributions and relationships.
+
 Correlation Analysis:
 -
 Identifying relationships between features and the target variable.
+
 Outlier Detection:I
 -
 entifying and addressing outliers.
+
 Data Preprocessing:
 -
 Scaling, normalizing, or encoding features as required for modeling.
+
 Data Analysis Tasks
 -
 Average Rooms per Dwelling by MEDV Category: Calculating the average number of rooms per dwelling for each category of 'MEDV' (low, medium, high).
@@ -49,21 +55,25 @@ Percentage of Houses Bound to Charles River: Determining the percentage of house
 # NumPy Operations
 Performing NumPy operations on the 'AGE' column:
 -
+
 Compute mean and standard deviation.
+
 Normalize the array.
+
 Conclusion
 The EDA reveals important insights:
 -
 Price Distribution: Housing prices exhibit a right-skewed pattern.
+
 Correlation Analysis:
 -
 Features like number of rooms and percentage of lower status population show strong correlations with housing prices.
-Outliers
--
-Careful handling of outliers is necessary.
+
+
 Geographical Trends: 
 -
 Exploring housing prices across different areas may reveal localized patterns.
+
 Data Quality:
 -
 Ensuring data reliability and accuracy is essential.
