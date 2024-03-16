@@ -3,7 +3,8 @@ Overview:
 -
 This repository contains an analysis of the Boston Housing dataset, a classic dataset used in regression analysis and predictive modeling. The dataset contains information collected by the U.S Census Service regarding housing in the Boston, Massachusetts area. It comprises 506 observations with 14 attributes, each representing aggregated data about various features for houses in different Boston neighborhoods.
 
-#Tools Used:
+Tools Used:
+-
 The analysis utilizes Python and various libraries for data manipulation, visualization, and analysis, including:
 
 <p align="Left">
@@ -11,10 +12,12 @@ The analysis utilizes Python and various libraries for data manipulation, visual
 
 <p align="Left">
   <img width="40" height="20" src="-Boston-Housing-Data-Analysis/download.png"></p>
-#Description
+Description:
+-
 The Boston Housing dataset provides insights into the housing market and factors influencing housing prices. Key attributes include crime rate, zoning, proximity to business areas, environmental factors like nitric oxides concentration, average number of rooms, and socio-economic indicators such as the percentage of lower-status population.
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
+
 EDA is conducted to gain insights into the dataset:
 
 Data Inspection: Checking data types, missing values, and initial exploration of the dataset.
