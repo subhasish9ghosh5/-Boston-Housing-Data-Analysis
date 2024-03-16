@@ -8,7 +8,7 @@ Tools Used:
 The analysis utilizes Python and various libraries for data manipulation, visualization, and analysis, including:
 
 <p align="center">
-  <img width="600" height="400" src="Boston-Housing-Data-Analysis/images.png">
+  <img width="600" height="400" src="download.png">
 </p>
 
 <p align="center">
