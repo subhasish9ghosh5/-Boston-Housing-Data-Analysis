@@ -82,7 +82,7 @@ Ensuring data reliability and accuracy is essential.
 
 Based on the comprehensive exploratory data analysis (EDA) conducted on the Boston Housing dataset, several key conclusions emerge. Firstly, the distribution of housing prices exhibits a right-skewed pattern, indicating a prevalence of lower-priced houses compared to higher-priced ones. Correlation analysis reveals strong relationships between certain features such as the number of rooms and the percentage of lower-status population with housing prices, suggesting their significant impact on property values. Moreover, the presence of outliers underscores the need for careful consideration, as they can disproportionately influence statistical analyses and machine learning models. Exploring geographical trends in housing prices across different areas of Boston could unveil localized patterns, offering valuable insights for real estate investment strategies. Ensuring data reliability and accuracy through meticulous examination of missing values, data inconsistencies, and quality issues is paramount. Overall, the EDA process provides a robust understanding of the Boston housing dataset, enabling stakeholders such as real estate investors, policymakers, and urban planners to make well-informed decisions and derive actionable insights for various applications.
 
-## Authors
+## Author
 
 # Project:
 https://github.com/subhasish9ghosh5/-Boston-Housing-Data-Analysis/blob/main/BOSTONHousing1.ipynb%20-%20Colaboratory.pdf
